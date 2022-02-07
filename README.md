@@ -1,4 +1,4 @@
-# frontend task 3
+# frontend task 1
 
 Create a quiz in react. Use the data structure from main.js as data model you retrieve.
 
